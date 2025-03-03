@@ -67,3 +67,18 @@ The dataset follows a **star schema** with the following tables:
 1. Clone the repository:  
    ```sh
    git clone https://github.com/your-username/SQL-Business-Data-Analysis.git
+   ```  
+2. Open the `SQL_Scripts.sql` file and execute the queries in **Microsoft SQL Server**.  
+3. Modify queries as needed for custom analysis.  
+
+## 📢 Contributing  
+Contributions are welcome! Feel free to submit a **pull request** or open an **issue** for suggestions and improvements.  
+
+## 📜 License  
+This project is licensed under the **MIT License**.  
+
+## 📞 Contact  
+📌 **Created by:** Amr Amgad Mashaly  
+📧 **Email:** amrmashaly935@.com  
+📱 **Phone:** 01009218738  
+
